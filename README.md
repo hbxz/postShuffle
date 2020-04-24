@@ -4,7 +4,7 @@
 
 ### Overview
 
-Clone this [playground repo](https://github.com/hbxz/postShuffle), you can run a local blog server and exploit it's XSS vulnerability, **legally**. 
+Clone this [playground repo](https://github.com/hbxz/web-sec-3-XSS), you can run a local blog server and exploit it's XSS vulnerability, **legally**. 
 
 >   I suggest that you only attack a website in your local machine. 
 
